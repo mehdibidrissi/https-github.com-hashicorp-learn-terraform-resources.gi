@@ -1,0 +1,1 @@
+# https-github.com-hashicorp-learn-terraform-resources.gi
